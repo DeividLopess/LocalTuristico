@@ -1,0 +1,131 @@
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  color: #333333;
+  font-size: 16px;
+  margin: 0;
+}
+
+body {
+  background-color: #f5f4f0;
+}
+
+main {
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 80px auto;
+  font-family: "Open Sans";
+}
+
+#conhecaBusan > p:first-of-type {
+  color: #e1624f;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0;
+}
+
+#conhecaBusan h1 {
+  color: #1b1b1b;
+  font-size: 36px;
+  margin-top: 8px;
+  margin-bottom: 40px;
+}
+
+#introducao > p:first-of-type {
+  color: #e1624f;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+
+#introducao h2 {
+  margin-bottom: 8px;
+}
+
+#templo1 img {
+  margin-top: 64px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #1b1b1b;
+  font-size: 32px;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+h3 {
+  color: #1b1b1b;
+  font-size: 28px;
+}
+
+.bomPara {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+}
+
+.historia {
+  color: #0c51a7;
+  font-weight: bold;
+}
+
+ul {
+  margin-top: 0px;
+}
+
+#templo2 img {
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+
+#templo3 img {
+  margin-top: 48px;
+  margin-bottom: 20px;
+}
+
+.casais {
+  color: #591b98;
+  font-weight: bold;
+}
+
+.familia {
+  color: #e5245e;
+  font-weight: bold;
+}
+
+.orcamento {
+  color: #e95e10;
+  font-weight: bold;
+}
+
+.description {
+  font-style: italic;
+  color: #333333;
+  text-align: center;
+  margin-top: 24px;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #d9d9d9;
+  margin-top: 40px;
+  margin-bottom: 64px;
+  height: 1px;
+}
+
+#conclusao {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-family: "Alice", serif;
+  margin: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
